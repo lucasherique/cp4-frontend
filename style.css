@@ -99,7 +99,7 @@ body {
 .gallery-section {
     background-color: var(--text-light);
     color: var(--bg-dark);
-    padding: 70px 40px;
+    padding: 60px 40px;
 }
 
 .gallery-grid {
@@ -194,3 +194,4 @@ body {
         gap: 10px;
     }
 }
+
